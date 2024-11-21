@@ -1,0 +1,22 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.detailsContainer {
+  margin: 0 auto;
+  width: 40%;
+}
+.detailsContainer img{
+  width: 100%;
+}
+.detailsTextContainer {
+  width: 70%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 2rem;
+}
